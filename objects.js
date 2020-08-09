@@ -1,1 +1,1 @@
-playlist.artistNames = 'songTitles' ;
+var = playlist.artistNames = 'songTitles' ;
