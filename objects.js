@@ -7,7 +7,7 @@ function updatePlaylist(playlist, artistNames, songTitles) {
 }
 
 function removeFromPlaylist(playlist, artistNames) {
-  playlist[artistNames]
+  delete playlist[artistNames]
 
   return playlist
 }
