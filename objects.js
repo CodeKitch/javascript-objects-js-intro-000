@@ -1,1 +1,1 @@
-playlist = { artistNames : 'songTitles' }
+playlist.artistNames = 'songTitles' ;
